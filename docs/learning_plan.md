@@ -1,1 +1,30 @@
-IyDmiJHnmoTlpKflrabmtYHph4/lrp7njrAKCojgICAgICAgICAgICAgICAgICAgICAgKDIwMjUtMDQtMDEgfiAyMDI1LTA0LTA1KQoKIyMgRGF5IDE6IFNoZWxs57WE56CB5ZKM57q/CiMjIyDmr4/lrqDliIbmnpAKLSDmsqHmnInShGVsbOe8lueoi+WunuS+iwotIOi/memHjOaJgOacieaTjeS9nAotIOaYr+WQpuS4juihqOekuuWunuS+iwogCiMjIyDntKLlvIMKMS4g57WE56CB5paH5Lu25YiG5Lqr5ZCN6K6h5YiSCjIuIOWPkeihjOaWh+acrOWPquihjOaWh+S7tuWvueihqOekuuWwj+WIl+ihqAozLiDlkox6b3V0b+WunuS+iyjkuLrku4Dml7bpl7TkvZzkuKopCgojIyBEYXkgMjog6Z2e5Lit6Ieq55Sx6K6h5YiSCiMjIyDlrqHmib7liJfooYwKLSBCQVRTIChCYXNoIEF1dG9tYXRlZCBUZXN0aW5nIFN5c3RlbSkKLSDorqHliJLlvIDml7bpl7TliJcKLSDoqIDmqKPngrnor50KCiMjIyDntKLlvIMKMS4g5LiNDGF5MeS4iueahOe1hOeggeaWh+S7tuWIm+W7uuiurgoyLiDnrqHnkIbliKvlkI7kuIDkuKrmnI3liqEKMw==
+# 服务器测试学习计划
+
+## 学习路线 (2025-04-01 ~ 2025-04-05)
+
+### Day 1: Shell编程基础
+- 基础语法变量与参数传递
+- 流程控制语句实践
+- 常用文本处理工具（grep/sed/awk）
+
+### Day 2: 自动化测试框架
+- BATS框架搭建与测试用例编写
+- 测试覆盖率统计方法
+- CI/CD集成测试
+
+### Day 3: 接口测试基础
+- HTTP协议与状态码解读
+- curl命令高级用法
+- 自动化响应断言
+
+### Day 4: Postman进阶
+- 环境变量与动态参数
+- 测试脚本开发（Pre-request/Tests）
+- Newman命令行集成
+
+### Day 5: 综合实战
+- 搭建Node.js测试服务器
+- 编写完整测试方案
+- 生成HTML测试报告
+
+[完整学习文档已修复编码问题]
